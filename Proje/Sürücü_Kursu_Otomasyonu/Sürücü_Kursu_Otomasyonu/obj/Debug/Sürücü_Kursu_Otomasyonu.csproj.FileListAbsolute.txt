@@ -1,0 +1,95 @@
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Sürücü_Kursu_Otomasyonu.exe.config
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Sürücü_Kursu_Otomasyonu.exe
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Sürücü_Kursu_Otomasyonu.pdb
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Form1.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Properties.Resources.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.exe
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.pdb
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.AdminGiriş.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Öğretmen_Giriş.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.AdminPaneli.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.ÖğretmenPanel.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.öğrencikayıt.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.ÖğrenciListesi.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.AktifArabalar.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.DersEkleÇıkar.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.DersProgramı.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.DireksiyonDersiKayıt.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.direksiyondersprogramı.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.ÖdemelerListesi.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.ÖğretmenListesi.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.öğretmenarabalistesi.resources
+C:\Users\kural\Desktop\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Öğretmenlistesiö.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Sürücü_Kursu_Otomasyonu.exe.config
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Sürücü_Kursu_Otomasyonu.exe
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Sürücü_Kursu_Otomasyonu.pdb
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.AdminGiriş.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.AdminPaneli.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.AktifArabalar.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.DersEkleÇıkar.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.DersProgramı.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.DireksiyonDersiKayıt.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.direksiyondersprogramı.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Form1.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Properties.Resources.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.ÖdemelerListesi.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.öğrencikayıt.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.ÖğrenciListesi.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Öğretmen_Giriş.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.öğretmenarabalistesi.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.ÖğretmenListesi.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.Öğretmenlistesiö.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.ÖğretmenPanel.resources
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.exe
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.pdb
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Google.Protobuf.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\MySql.Data.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\MySqlConnector.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Buffers.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Memory.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\ZstdSharp.dll
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Google.Protobuf.pdb
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Google.Protobuf.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\MySql.Data.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\MySqlConnector.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Buffers.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Memory.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Onur Konan\Desktop\Yeni klasör\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.csproj.CopyComplete
+C:\Users\kural\Desktop\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\kural\Desktop\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.exe
+C:\Users\kural\Desktop\Proje (2)\Proje\Sürücü_Kursu_Otomasyonu\Sürücü_Kursu_Otomasyonu\obj\Debug\Sürücü_Kursu_Otomasyonu.pdb
